@@ -3,9 +3,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mustafa.kaspi@gmail.com)
 
 Software Developer & Network Engineer —
-Focusing on Frontend Development (Javascript/Typescript - React & React
-Native), Backend Integration (Node.Js), and Database Management
-(Firebase 9 / MongoDB). 
+Focusing on Frontend Development (Javascript/Typescript), Backend Integration (Node.Js), and Database Management
+(Supabase / MongoDB). 
 
 
 
